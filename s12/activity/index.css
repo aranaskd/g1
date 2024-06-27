@@ -1,0 +1,16 @@
+#navMenu li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0.5rem;
+    padding: 3px;
+}
+
+#landing {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/005/720/479/small_2x/banner-abstract-background-board-for-text-and-message-design-modern-free-vector.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 50vh;
+    color: white;
+}
