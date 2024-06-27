@@ -1,0 +1,16 @@
+#hot {
+    text-align: center;
+}
+
+#hot h2 {
+    margin: 0.5rem 0;
+}
+
+#hot li {
+    display: inline-block;
+    list-style-type: none;
+    border: 2px solid blanchedalmond;
+    border-radius: 10px;
+    padding: 3rem;
+    margin: 0 0.5rem;
+}
