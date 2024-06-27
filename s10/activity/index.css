@@ -5,4 +5,15 @@
 
 #external {
     color: yellow;
+
+h1 {
+    font-size: 3rem;
+}
+
+#sub-header {
+    text-transform: uppercase;
+}
+
+.text-green {
+    background-color: green;
 }
