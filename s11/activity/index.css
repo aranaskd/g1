@@ -12,3 +12,7 @@
 #pre-footer div *{
     margin: .3rem;
 }
+
+footer {
+    padding: .7rem;
+}
