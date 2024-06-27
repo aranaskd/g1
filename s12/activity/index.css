@@ -10,7 +10,7 @@ h1, h2, h3, h4 {
 }
 
 #navMenu {
-    background-color: #170939;
+    background-color:darkslateblue;
     padding: 5px;
     text-align: center;
     color: white;
@@ -34,7 +34,7 @@ h1, h2, h3, h4 {
 }
 
 #landing h1 {
-    padding-top: 0.5rem;
+    padding-top: 10%;
     font-size: 3rem;
 }
 
@@ -47,4 +47,21 @@ h1, h2, h3, h4 {
     background-color: mediumaquamarine;
     border: 2px solid white;
     border-radius: 20px;
+}
+
+#hot {
+    text-align: center;
+}
+
+#hot h2 {
+    margin: 0.5rem 0;
+}
+
+#hot li {
+    display: inline-block;
+    list-style-type: none;
+    border: 2px solid blanchedalmond;
+    border-radius: 10px;
+    padding: 3rem;
+    margin: 0 0.5rem;
 }
