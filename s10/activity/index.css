@@ -31,3 +31,11 @@ section img {
     height: 20vh;
     border-radius: 100px;
 }
+
+h4 ~ p {
+    text-align: center;
+}
+
+section li {
+    letter-spacing: 10px;
+}
