@@ -5,6 +5,7 @@
 
 #external {
     color: yellow;
+}
 
 h1 {
     font-size: 3rem;
@@ -16,4 +17,17 @@ h1 {
 
 .text-green {
     background-color: green;
+}
+
+.border-blue{
+    border: 2px solid blue;
+}
+
+img + ul {
+    list-style-type: none;
+}
+
+section img {
+    height: 20vh;
+    border-radius: 100px;
 }
