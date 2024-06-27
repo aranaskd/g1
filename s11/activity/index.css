@@ -3,3 +3,8 @@
     color: white;
     background-color: #002540;
 }
+
+#pre-footer  div{
+    display: inline-block;
+    width: 20%;
+}
