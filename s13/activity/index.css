@@ -54,3 +54,29 @@ nav li {
     padding: 3rem 0;
     color: white;
 }
+
+.container {
+    text-align: right;
+    width: 40%;
+    position: relative;
+    left: 50%;
+}
+
+.title {
+    font-family: "Zilla Slab";
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.subtitle {
+    font-size: 1.3rem;
+    font-weight: 300;
+    width: 75%;
+    margin-left: 9rem;
+    margin-top: 1rem;
+}
+
+#apply-button {
+    margin-top: 1rem;
+    background-color: #c2195b;
+}
