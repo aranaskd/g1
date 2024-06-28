@@ -80,3 +80,34 @@ nav li {
     margin-top: 1rem;
     background-color: #c2195b;
 }
+
+#main {
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.title-2{
+    font-family: "Zilla Slab";
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.description {
+    margin: 1rem 0;
+    font-weight: 400;
+}
+
+#book-button {
+    background-color: #336589;
+}
+
+footer {
+    margin-top: 3rem;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+footer span {
+    margin: 0 1rem;
+    font-weight: 400;
+}
