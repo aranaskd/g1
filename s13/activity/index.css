@@ -13,4 +13,26 @@ button {
     font-weight:600;
     border-color: transparent;
     border-radius: 25px;
-}s
+}
+
+nav {
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+
+.right-nav {
+    float: right;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nav, .nav-logo {
+    margin: 8px;
+    padding: 3px;
+}
